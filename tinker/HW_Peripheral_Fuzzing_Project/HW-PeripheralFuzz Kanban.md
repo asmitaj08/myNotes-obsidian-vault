@@ -10,12 +10,14 @@ kanban-plugin: board
 
 ## #to-do
 
-- [ ] Task 2
+- [ ] Read TWFuzz paper
+- [ ] Draft a plan of my approach for this project
+- [ ] DIscuss with Ruoyu and Ruijie about
 
 
 ## #in-progress
 
-- [ ] Task 1
+- [ ] Read GDBFuzz paper
 
 
 ## #completed

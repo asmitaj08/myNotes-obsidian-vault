@@ -10,6 +10,7 @@ kanban-plugin: board
 
 ## #to-do
 
+- [ ] Learn Rust🔁 every week on Saturday
 
 
 ## #in-progress

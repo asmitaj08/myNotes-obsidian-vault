@@ -1,32 +1,32 @@
 {
   "show-checkboxes": true,
-  "new-line-trigger": "enter",
+  "new-line-trigger": "shift-enter",
   "new-note-folder": "KanbanNotes",
   "move-tags": true,
   "tag-sort": [
     {
-      "tag": "#To-do"
+      "tag": "#to-do"
     },
     {
-      "tag": "#In-progress"
+      "tag": "#in-progress"
     },
     {
-      "tag": "#Complete"
+      "tag": "#completed"
     }
   ],
   "tag-colors": [
     {
-      "tagKey": "#To-do",
+      "tagKey": "#to-do",
       "color": "",
       "backgroundColor": ""
     },
     {
-      "tagKey": "#In-progress",
+      "tagKey": "#in-progress",
       "color": "",
       "backgroundColor": ""
     },
     {
-      "tagKey": "#Complete",
+      "tagKey": "#complete",
       "color": "",
       "backgroundColor": ""
     }

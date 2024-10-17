@@ -1,12 +1,12 @@
 
-## TinyML Project
-```tasks not done sort by due date
-path includes TinyML_Project 
-```
-*******************************************************
 ## SEFF Project
 ```tasks not done sort by due date
 path includes SEFF_Project 
+```
+*******************************************************
+## TinyML Project
+```tasks not done sort by due date
+path includes TinyML_Project 
 ```
 *******************************************************
 ## LLM Datasheet Project
@@ -37,9 +37,16 @@ path includes GoogleWatchFuzz
 ```tasks not done sort by due date
 path includes TA_Tasks
 ```
-
+****************************
 ## Learning
 
 ```tasks not done sort by due date
 path includes Learning_Tasks
 ```
+
+******************************
+## Generic Tasks
+
+- [ ] NSF training requirement
+- [ ] UCD HR training requirement
+- [ ] Engineering student design center training
