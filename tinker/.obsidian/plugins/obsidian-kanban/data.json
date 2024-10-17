@@ -1,0 +1,34 @@
+{
+  "show-checkboxes": true,
+  "new-line-trigger": "enter",
+  "new-note-folder": "KanbanNotes",
+  "move-tags": true,
+  "tag-sort": [
+    {
+      "tag": "#To-do"
+    },
+    {
+      "tag": "#In-progress"
+    },
+    {
+      "tag": "#Complete"
+    }
+  ],
+  "tag-colors": [
+    {
+      "tagKey": "#To-do",
+      "color": "",
+      "backgroundColor": ""
+    },
+    {
+      "tagKey": "#In-progress",
+      "color": "",
+      "backgroundColor": ""
+    },
+    {
+      "tagKey": "#Complete",
+      "color": "",
+      "backgroundColor": ""
+    }
+  ]
+}

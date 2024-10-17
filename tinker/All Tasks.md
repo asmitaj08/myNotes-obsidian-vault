@@ -1,4 +1,30 @@
-````
-```tasks
+
+## TinyML Project
+```tasks not done sort by due date
+path includes TinyML_Project 
 ```
-````
+*******************************************************
+## SEFF Project
+```tasks not done sort by due date
+path includes SEFF_Project 
+```
+*******************************************************
+## LLM Datasheet Project
+```tasks not done sort by due date
+path includes LLM_Datasheet-Project 
+```
+*******************************************************
+## Interviews
+```tasks not done sort by due date
+path includes Interviews_Prep 
+```
+*******************************************************
+## HW Peripheral Fuzz Project
+```tasks not done sort by due date
+path includes HW_Peripheral_Fuzzing_Project
+```
+*******************************************************
+## Google Watch Fuzz Project
+```tasks not done sort by due date
+path includes GoogleWatchFuzz
+```

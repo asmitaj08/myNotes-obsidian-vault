@@ -1,1 +1,0 @@
-- [ ] Implement basic integration of edge impulse📅 2024-10-22 ⏫ 
