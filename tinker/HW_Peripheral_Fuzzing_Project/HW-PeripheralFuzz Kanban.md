@@ -17,12 +17,13 @@ kanban-plugin: board
 
 ## #in-progress
 
-- [ ] Read GDBFuzz paper
+- [ ] Check gdbFUzz gihub implementation
 
 
 ## #completed
 
 **Complete**
+- [x] Read GDBFuzz paper ✅ 2024-10-17
 
 
 

@@ -39,21 +39,14 @@
             "id": "9b079bddf2c6f5cc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Learning_Tasks/Learning Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "All Tasks.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Learning Kanban"
+              "icon": "lucide-file",
+              "title": "All Tasks"
             }
           }
         ],
@@ -202,17 +195,22 @@
   },
   "active": "9b079bddf2c6f5cc",
   "lastOpenFiles": [
-    "HW_Peripheral_Fuzzing_Project/HW-PeripheralFuzz Kanban.md",
+    "SEFF_Project/SEFF Kanban.md",
+    "SEFF_Project/Implementation notes_current.md",
+    "SEFF_Project/Implementation-notes _ Old.md",
+    "SEFF_Project/Questions.md",
+    "SEFF-w-LLM_Project",
+    "Conferences Deadline.md",
     "All Tasks.md",
+    "HW_Peripheral_Fuzzing_Project/HW-PeripheralFuzz Kanban.md",
+    "Learning_Tasks/Learning Kanban.md",
     "Interviews_Prep/Interview Kanban.md",
     "GoogleWatchFuzz/PixelFuzz Kanban.md",
-    "SEFF_Project/SEFF Kanban.md",
     "LLM_Datasheet-Project/LLM-datasheet Kanban.md",
     "TinyML_Project/TinyML Kanban.md",
     "TA_Tasks/TA Kanban.md",
     "Interviews_Prep/Book - Elements of programming interview.md",
     "Interviews_Prep/Book -Secure coding in c & c++.md",
-    "Learning_Tasks/Learning Kanban.md",
     "Learning_Tasks",
     "TA_Tasks",
     "TA/EEC7-fall24/Notes.md",
@@ -229,15 +227,10 @@
     "KanbanNotes",
     "TinyML_Project/TinyMLKanban.md",
     "TinyML_Project/TinyML Project Tasks.md",
-    "TinyML_Project/Implementation notes - Part 1 basic.md",
-    "Untitled Kanban.md",
-    "To-do_Oct15.md",
-    "LLM_Datasheet-Project/Codebase understanding notes.md",
     "Interviews_Prep",
     "GoogleWatchFuzz",
     "HW_Peripheral_Fuzzing_Project",
     "LLM_Datasheet-Project",
-    "TinyML_Project",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
