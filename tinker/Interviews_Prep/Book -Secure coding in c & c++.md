@@ -1,0 +1,7 @@
+- Page 32 : ARR01-C : Do not apply sizeof operator to a pointer when taking the size of an array
+- If time permits, come back to page 32-34
+- Page 36 : STR36-C -  Do not specify the bound of a character array initialized with a string literal
+- In C, const char ('A')and multicharacter literals('ABCD') has type int (page 38-39), unsigned char - pure binary notation, non-bit-field objects of any type may be copied into array of unsigned char
+- Page 39- STR31-C : Guarantee tahta storage for strings has sufficient space for character data and null terminator, 
+- Size of wchar (page 40-41)
+- Errors while manipulating strings (page 42..) : unbound string copies (*when data is cpoied from source to a fixed-length arr*) , of-by-one, null-termination, string truncation
