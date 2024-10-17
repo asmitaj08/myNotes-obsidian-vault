@@ -41,26 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews_Prep/Other notes.md",
+                "file": "Interviews_Prep/Book -Secure coding in c & c++.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Other notes"
-            }
-          },
-          {
-            "id": "7e4ac457d0915604",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks Plugin - Review and check your Statuses 2024-10-16 17-05-30.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tasks Plugin - Review and check your Statuses 2024-10-16 17-05-30"
+              "title": "Book -Secure coding in c & c++"
             }
           }
         ],
@@ -95,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#To-do",
+                "query": "tag:#cmpleted",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,8 +122,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks Plugin - Review and check your Statuses 2024-10-16 17-05-30.md",
-                "collapseAll": false,
+                "file": "All Tasks.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -146,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tasks Plugin - Review and check your Statuses 2024-10-16 17-05-30"
+              "title": "Backlinks for All Tasks"
             }
           },
           {
@@ -209,15 +195,25 @@
   },
   "active": "9b079bddf2c6f5cc",
   "lastOpenFiles": [
-    "Interviews_Prep/CTFs.md",
-    "Interviews_Prep/Other notes.md",
+    "Learning_Tasks/Learning Kanban.md",
     "All Tasks.md",
-    "TinyML_Project/TinyML Kanban.md",
-    "HW_Peripheral_Fuzzing_Project/HW-PeripheralFuzz Kanban.md",
-    "GoogleWatchFuzz/PixelFuzz Kanban.md",
-    "Interviews_Prep/Interview Kanban.md",
     "LLM_Datasheet-Project/LLM-datasheet Kanban.md",
+    "Interviews_Prep/Book -Secure coding in c & c++.md",
+    "Learning_Tasks",
+    "TA_Tasks/TA Kanban.md",
+    "TA_Tasks",
+    "TA/EEC7-fall24/Notes.md",
+    "TA/TA Kanban.md",
+    "TinyML_Project/TinyML Kanban.md",
     "SEFF_Project/SEFF Kanban.md",
+    "Interviews_Prep/Leet code.md",
+    "Interviews_Prep/Interview Kanban.md",
+    "GoogleWatchFuzz/PixelFuzz Kanban.md",
+    "HW_Peripheral_Fuzzing_Project/HW-PeripheralFuzz Kanban.md",
+    "TA/EEC7-fall24",
+    "TA",
+    "Interviews_Prep/Other notes.md",
+    "Interviews_Prep/CTFs.md",
     "LLM_Datasheet-Project/To-do.md",
     "SEFF_Project/To-do.md",
     "SEFF_Project/Task Tracking.md",
@@ -227,23 +223,15 @@
     "TinyML_Project/TinyML Project Tasks.md",
     "TinyML_Project/Implementation notes - Part 1 basic.md",
     "Interviews_Prep/Book - Elements of programming interview.md",
-    "Interviews_Prep/Leet code.md",
     "Untitled Kanban.md",
     "To-do_Oct15.md",
     "LLM_Datasheet-Project/Codebase understanding notes.md",
-    "Interviews_Prep/Book -Secure coding in c & c++.md",
     "Interviews_Prep",
     "GoogleWatchFuzz",
     "HW_Peripheral_Fuzzing_Project",
     "LLM_Datasheet-Project",
     "TinyML_Project",
-    "SEFF_Project/Implementation notes_current.md",
-    "SEFF_Project/Implementation-notes _ Old.md",
-    "SEFF_Project/Untitled",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "SEFF_Project Past.md",
-    "SEFF_Project current progress.md",
-    "SEFF_Project"
+    "Untitled.canvas"
   ]
 }

@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## #backlogs
@@ -16,7 +18,7 @@ kanban-plugin: board
 - [ ] Task 1
 
 
-## Completed
+## #completed
 
 **Complete**
 

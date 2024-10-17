@@ -28,3 +28,18 @@ path includes HW_Peripheral_Fuzzing_Project
 ```tasks not done sort by due date
 path includes GoogleWatchFuzz
 ```
+
+
+---
+
+## TA Tasks
+
+```tasks not done sort by due date
+path includes TA_Tasks
+```
+
+## Learning
+
+```tasks not done sort by due date
+path includes Learning_Tasks
+```
