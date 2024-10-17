@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "Book - Elements of programming interview"
             }
+          },
+          {
+            "id": "9b079bddf2c6f5cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "All Tasks.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "All Tasks"
+            }
+          },
+          {
+            "id": "7e4ac457d0915604",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks Plugin - Review and check your Statuses 2024-10-16 17-05-30.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tasks Plugin - Review and check your Statuses 2024-10-16 17-05-30"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,6 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tasks Plugin - Review and check your Statuses 2024-10-16 17-05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Tasks Plugin - Review and check your Statuses 2024-10-16 17-05-30"
             }
           },
           {
@@ -126,11 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tasks Plugin - Review and check your Statuses 2024-10-16 17-05-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Tasks Plugin - Review and check your Statuses 2024-10-16 17-05-30"
             }
           },
           {
@@ -152,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All Tasks.md"
+                "file": "Tasks Plugin - Review and check your Statuses 2024-10-16 17-05-30.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of All Tasks"
+              "title": "Outline of Tasks Plugin - Review and check your Statuses 2024-10-16 17-05-30"
             }
           }
         ]
@@ -177,24 +207,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f30097d0318a9d6f",
+  "active": "9b079bddf2c6f5cc",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
+    "Interviews_Prep/Book - Elements of programming interview.md",
+    "Tasks Plugin - Review and check your Statuses 2024-10-16 17-05-30.md",
     "All Tasks.md",
-    "To-do_Oct15.md",
+    "TinyML_Project/TinyML Project Tasks.md",
+    "Interviews_Prep/Leet code.md",
     "LLM_Datasheet-Project/To-do.md",
+    "SEFF_Project/Task Tracking.md",
     "SEFF_Project/To-do.md",
     "TinyML_Project/Implementation notes - Part 1 basic.md",
+    "Untitled Kanban.md",
+    "To-do_Oct15.md",
     "LLM_Datasheet-Project/Codebase understanding notes.md",
-    "Interviews_Prep/Leet code.md",
     "Interviews_Prep/Book -Secure coding in c & c++.md",
-    "Interviews_Prep/Book - Elements of programming interview.md",
     "Interviews_Prep",
     "GoogleWatchFuzz",
     "HW_Peripheral_Fuzzing_Project",
     "LLM_Datasheet-Project",
     "TinyML_Project",
-    "SEFF_Project/Task Tracking.md",
     "SEFF_Project/Implementation notes_current.md",
     "SEFF_Project/Implementation-notes _ Old.md",
     "SEFF_Project/Untitled",
