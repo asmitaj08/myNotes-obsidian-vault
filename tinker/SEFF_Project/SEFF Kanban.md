@@ -10,9 +10,10 @@ kanban-plugin: board
 
 ## #to-do
 
-- [ ] Introduce the vulnerability in the custom bianry and test if it acn be detected
+- [ ] Introduce the vulnerability in the custom binary and test if it can be detected
 - [ ] Identify when to start and stop one fuzz run
 - [ ] Discuss with Dominik and Marius
+- [ ] identify how to deal with delay() in firmware
 - [ ] Create generalized renode module for I2C peripheral
 - [ ] Test with practical firmwares from previous research papers
 - [ ] Work on how to process input if different bytes are resposible for updating different parameters, maybe do slicing (as currently I am just taking the byte at 0th index of the fuzz value provided by LibAFL)

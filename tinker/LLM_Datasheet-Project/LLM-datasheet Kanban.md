@@ -15,6 +15,8 @@ kanban-plugin: board
 - [ ] Prepare  & submit abstract for DAC 📅 2024-11-10
 - [ ] Write paper for DAC
 - [ ] Review and submit the paper 📅 2024-11-18
+- [ ] Train the model with existing SVDs
+- [ ] Generate SVDs and compare with SVD parsers
 
 
 ## #in-progress
