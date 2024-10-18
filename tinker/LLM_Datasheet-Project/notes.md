@@ -1,0 +1,3 @@
+* do not compare with existing pdf decoder, rather just train it specific to embedded systems
+* Idea is to develop a interactive datasheet assistant (IDA) chatbot where user can query anything about specific MCUs. We will train this model with bunch of datasheet and possible questions where we can also leverage chatgpt and notebookLM to generate question adn response for training
+* Later pick up ideas as mentioned in Notes (Microsoft one note)
