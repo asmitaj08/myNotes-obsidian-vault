@@ -6,3 +6,4 @@
 - Size of wchar (page 40-41)
 - Errors while manipulating strings (page 42..) : unbound string copies (*when data is cpoied from source to a fixed-length arr*) , of-by-one, null-termination, string truncation
 - Page 43-44 : Command line arguments are passed to main() as pointers to null-terminated strings in the array members `argv[0]` through `argv[argc-1]` , we know `argv[0]` is program name, the pint is : Avoid assuming that element of `argv` including `argv[0` is not NULL, hence check before directly using `argv[n]`
+- `snprintf()` is also susceptible to format string vulnerabilities (Page 45)

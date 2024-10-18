@@ -10,19 +10,20 @@ kanban-plugin: board
 
 ## #to-do
 
-- [ ] Practice Leet code everyday for 1.5 hours🔁 every day
 - [ ] Pay some CTFs for 2 hours🔁 every week on Sunday
 
 
 ## #in-progress
 
-- [ ] Prepare one month Leet code strategy
 - [ ] Read secure code/ element of programming book 45 minutes🔁 every day
+- [ ] Practice Leet code everyday for 1.5 hours 🔁 every day
 
 
 ## #completed
 
 **Complete**
+- [x] Prepare one month Leet code strategy ✅ 2024-10-17
+- [x] Practice Leet code everyday for 1.5 hours 🔁 every day ✅ 2024-10-17
 
 
 

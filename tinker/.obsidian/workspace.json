@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews_Prep/Leet code plan - Meta.md",
+                "file": "Interviews_Prep/Book -Secure coding in c & c++.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leet code plan - Meta"
+              "title": "Book -Secure coding in c & c++"
             }
           }
         ],
@@ -195,13 +195,13 @@
   },
   "active": "9b079bddf2c6f5cc",
   "lastOpenFiles": [
-    "Interviews_Prep/Leet code Notes.md",
-    "Interviews_Prep/Leet code plan - Meta.md",
-    "LLM_Datasheet-Project/notes.md",
+    "All Tasks.md",
     "Interviews_Prep/Interview Kanban.md",
+    "Interviews_Prep/Leet code plan - Meta.md",
+    "Interviews_Prep/Leet code Notes.md",
+    "LLM_Datasheet-Project/notes.md",
     "LLM_Datasheet-Project/LLM-datasheet Kanban.md",
     "Interviews_Prep/Book -Secure coding in c & c++.md",
-    "All Tasks.md",
     "SEFF_Project/SEFF Kanban.md",
     "SEFF_Project/Implementation notes_current.md",
     "SEFF_Project/Implementation-notes _ Old.md",
