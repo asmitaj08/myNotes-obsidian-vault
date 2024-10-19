@@ -25,21 +25,14 @@
             "id": "f070e282a3263a84",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "SEFF_Project/SEFF Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "LLM_Datasheet-Project/notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "SEFF Kanban"
+              "icon": "lucide-file",
+              "title": "notes"
             }
           },
           {
@@ -202,16 +195,16 @@
   },
   "active": "f070e282a3263a84",
   "lastOpenFiles": [
-    "LLM_Datasheet-Project/notes.md",
     "LLM_Datasheet-Project/LLM-datasheet Kanban.md",
+    "All Tasks.md",
+    "SEFF_Project/SEFF Kanban.md",
+    "LLM_Datasheet-Project/notes.md",
     "Interviews_Prep/Book -Secure coding in c & c++.md",
     "SEFF_Project/Implementation-notes _ Old.md",
     "Interviews_Prep/Book - Elements of programming interview.md",
-    "All Tasks.md",
     "Interviews_Prep/Interview Kanban.md",
     "Interviews_Prep/Leet code plan - Meta.md",
     "Interviews_Prep/Leet code Notes.md",
-    "SEFF_Project/SEFF Kanban.md",
     "SEFF_Project/Implementation notes_current.md",
     "SEFF_Project/Questions.md",
     "SEFF-w-LLM_Project",
