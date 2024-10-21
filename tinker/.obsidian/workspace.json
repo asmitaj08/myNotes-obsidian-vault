@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM_Datasheet-Project/notes.md",
+                "file": "Learning_Tasks/Links.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes"
+              "title": "Links"
             }
           },
           {
@@ -195,10 +195,12 @@
   },
   "active": "f070e282a3263a84",
   "lastOpenFiles": [
+    "Learning_Tasks/Learning Kanban.md",
+    "Learning_Tasks/Links.md",
+    "LLM_Datasheet-Project/notes.md",
     "LLM_Datasheet-Project/LLM-datasheet Kanban.md",
     "All Tasks.md",
     "SEFF_Project/SEFF Kanban.md",
-    "LLM_Datasheet-Project/notes.md",
     "Interviews_Prep/Book -Secure coding in c & c++.md",
     "SEFF_Project/Implementation-notes _ Old.md",
     "Interviews_Prep/Book - Elements of programming interview.md",
@@ -210,7 +212,6 @@
     "SEFF-w-LLM_Project",
     "Conferences Deadline.md",
     "HW_Peripheral_Fuzzing_Project/HW-PeripheralFuzz Kanban.md",
-    "Learning_Tasks/Learning Kanban.md",
     "GoogleWatchFuzz/PixelFuzz Kanban.md",
     "TinyML_Project/TinyML Kanban.md",
     "TA_Tasks/TA Kanban.md",
@@ -225,7 +226,6 @@
     "LLM_Datasheet-Project/To-do.md",
     "SEFF_Project/To-do.md",
     "SEFF_Project/Task Tracking.md",
-    "Tasks Plugin - Review and check your Statuses 2024-10-16 17-05-30.md",
     "KanbanNotes",
     "Interviews_Prep",
     "GoogleWatchFuzz",
