@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning_Tasks/Links.md",
+                "file": "TinyML_Project/Implementation notes - Part 1 basic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Links"
+              "title": "Implementation notes - Part 1 basic"
             }
           },
           {
@@ -195,8 +195,8 @@
   },
   "active": "f070e282a3263a84",
   "lastOpenFiles": [
-    "Learning_Tasks/Learning Kanban.md",
     "Learning_Tasks/Links.md",
+    "Learning_Tasks/Learning Kanban.md",
     "LLM_Datasheet-Project/notes.md",
     "LLM_Datasheet-Project/LLM-datasheet Kanban.md",
     "All Tasks.md",
