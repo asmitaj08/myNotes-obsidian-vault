@@ -23,13 +23,13 @@ kanban-plugin: board
 ## #in-progress
 
 - [ ] Test the new custom binary for BMP180 with nrf52840
-- [ ] Identify the issue, and fix BMP180.cs sensor file in Renode
-- [ ] identify how to deal with delay() in firmware
+- [ ] identify how to deal with delay() in firmware 🔺
 
 
 ## #completed
 
 **Complete**
+- [x] Identify the issue, and fix BMP180.cs sensor file in Renode ✅ 2024-10-20
 
 
 

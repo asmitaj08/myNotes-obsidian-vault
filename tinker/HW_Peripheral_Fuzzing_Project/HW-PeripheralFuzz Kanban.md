@@ -10,14 +10,14 @@ kanban-plugin: board
 
 ## #to-do
 
-- [ ] Read TWFuzz paper
-- [ ] Draft a plan of my approach for this project
+- [x] Read TWFuzz paper ✅ 2024-10-20
+- [ ] Draft a plan of my approach for this project ⏫
 - [ ] DIscuss with Ruoyu and Ruijie about
 
 
 ## #in-progress
 
-- [ ] Check gdbFUzz gihub implementation
+- [ ] Check gdbFUzz github implementation 🔺
 
 
 ## #completed

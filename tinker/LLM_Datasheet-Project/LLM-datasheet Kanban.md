@@ -21,14 +21,15 @@ kanban-plugin: board
 
 ## #in-progress
 
-- [ ] Test  datasheet via notebook LLM, generate some questions and record the response, see if it can also generate specific file format
-- [ ] Brainstorm about building some specific application by training the existing model
+- [ ] Create SVD file dataset ⏫
 - [ ] Test for more use case like firmware understanding, code generation with and without datasheet upload, check the response accuracy
 
 
 ## #completed
 
 **Complete**
+- [x] Brainstorm about building some specific application by training the existing model ✅ 2024-10-20
+- [x] Test  datasheet via notebook LLM, generate some questions and record the response, see if it can also generate specific file format ✅ 2024-10-20
 - [x] Fix Grisha's llm issue, and test & compare with that ✅ 2024-10-17
 
 

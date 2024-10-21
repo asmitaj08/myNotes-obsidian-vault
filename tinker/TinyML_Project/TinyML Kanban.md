@@ -10,7 +10,6 @@ kanban-plugin: board
 
 ## #to-do
 
-- [ ] Implement one example of edge impulse on nrf840 board
 - [ ] Send it to Ruijie and analyze it's portability w.r.t generic API creation
 - [ ] Implement example of Google's TF Lite with nrf52840 board
 - [ ] Analyze the portability of APIs for edge impulse and TFLite
@@ -23,6 +22,8 @@ kanban-plugin: board
 
 ## #in-progress
 
+- [ ] Check sensiML and how it can be leveraged 🔺
+- [ ] Implement one example of edge impulse on nrf840 board ⏫
 
 
 ## #completed

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TinyML_Project/Implementation notes - Part 1 basic.md",
+                "file": "All Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Implementation notes - Part 1 basic"
+              "title": "All Tasks"
             }
           },
           {
@@ -195,13 +195,17 @@
   },
   "active": "f070e282a3263a84",
   "lastOpenFiles": [
+    "TinyML_Project/TinyML Kanban.md",
+    "TinyML_Project/Implementation notes - Part 1 basic.md",
+    "Interviews_Prep/Book -Secure coding in c & c++.md",
+    "All Tasks.md",
+    "HW_Peripheral_Fuzzing_Project/HW-PeripheralFuzz Kanban.md",
+    "TA_Tasks/TA Kanban.md",
+    "LLM_Datasheet-Project/LLM-datasheet Kanban.md",
+    "SEFF_Project/SEFF Kanban.md",
     "Learning_Tasks/Links.md",
     "Learning_Tasks/Learning Kanban.md",
     "LLM_Datasheet-Project/notes.md",
-    "LLM_Datasheet-Project/LLM-datasheet Kanban.md",
-    "All Tasks.md",
-    "SEFF_Project/SEFF Kanban.md",
-    "Interviews_Prep/Book -Secure coding in c & c++.md",
     "SEFF_Project/Implementation-notes _ Old.md",
     "Interviews_Prep/Book - Elements of programming interview.md",
     "Interviews_Prep/Interview Kanban.md",
@@ -211,10 +215,7 @@
     "SEFF_Project/Questions.md",
     "SEFF-w-LLM_Project",
     "Conferences Deadline.md",
-    "HW_Peripheral_Fuzzing_Project/HW-PeripheralFuzz Kanban.md",
     "GoogleWatchFuzz/PixelFuzz Kanban.md",
-    "TinyML_Project/TinyML Kanban.md",
-    "TA_Tasks/TA Kanban.md",
     "Learning_Tasks",
     "TA_Tasks",
     "TA/EEC7-fall24/Notes.md",
@@ -225,7 +226,6 @@
     "Interviews_Prep/CTFs.md",
     "LLM_Datasheet-Project/To-do.md",
     "SEFF_Project/To-do.md",
-    "SEFF_Project/Task Tracking.md",
     "KanbanNotes",
     "Interviews_Prep",
     "GoogleWatchFuzz",

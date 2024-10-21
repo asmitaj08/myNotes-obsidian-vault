@@ -10,7 +10,6 @@ kanban-plugin: board
 
 ## #to-do
 
-- [ ] Discussion 2 prep 📅 2024-10-20
 - [ ] Discussion 3 prep
 	📅 2024-10-27
 - [ ] Lab 1 prep📅 2024-11-03
@@ -26,7 +25,7 @@ kanban-plugin: board
 
 ## #in-progress
 
-- [ ] Task 1
+- [ ] Discussion 2 prep 🔼 📅 2024-10-20
 
 
 ## #completed
