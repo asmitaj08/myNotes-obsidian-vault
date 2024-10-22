@@ -12,6 +12,7 @@
 - Null-terminate byte strings as required (see how even `strncpy` can be tricked page 48-49)
 - In some cases, sting truncation may lead to software vulnerabilities.
 - Most functions defined in standard string handling library are susceptible to errors including strcpy(), strncpy(), strcat(), strncat(), strtok()
+- Page 74-75 : non rentrant functions can be troublesome (c11 annex k functions)
 
 
 

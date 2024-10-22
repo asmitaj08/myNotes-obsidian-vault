@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEFF_Project/Implementation notes_current.md",
+                "file": "Interviews_Prep/Book -Secure coding in c & c++.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Implementation notes_current"
+              "title": "Book -Secure coding in c & c++"
             }
           },
           {
@@ -45,8 +45,7 @@
               "title": "All Tasks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,8 +188,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f070e282a3263a84",
+  "active": "faa573edb77fbeba",
   "lastOpenFiles": [
+    "SEFF_Project/Implementation notes_current.md",
     "Learning_Tasks/Exploit dev.md",
     "Learning_Tasks/Untitled.md",
     "Learning_Tasks/ROP.md",
@@ -211,7 +211,6 @@
     "Interviews_Prep/Interview Kanban.md",
     "Interviews_Prep/Leet code plan - Meta.md",
     "Interviews_Prep/Leet code Notes.md",
-    "SEFF_Project/Implementation notes_current.md",
     "SEFF_Project/Questions.md",
     "SEFF-w-LLM_Project",
     "Conferences Deadline.md",
