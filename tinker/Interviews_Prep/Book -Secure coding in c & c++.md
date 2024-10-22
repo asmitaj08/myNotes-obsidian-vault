@@ -20,3 +20,6 @@
 **To Read Later**
 
 1. C locale & multibyte character set(page 32)
+2. Page 65 buffer overflow exploit example (page 65-68)
+3. ROP (returned oriented programming ) (page 71)
+4. Turing complete set of gadgets (page 71)

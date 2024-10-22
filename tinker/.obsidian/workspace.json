@@ -25,14 +25,10 @@
             "id": "f070e282a3263a84",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "All Tasks.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "All Tasks"
+              "title": "New tab"
             }
           },
           {
@@ -195,10 +191,14 @@
   },
   "active": "f070e282a3263a84",
   "lastOpenFiles": [
-    "TinyML_Project/TinyML Kanban.md",
-    "TinyML_Project/Implementation notes - Part 1 basic.md",
+    "Learning_Tasks/Exploit dev.md",
+    "Learning_Tasks/Untitled.md",
+    "Learning_Tasks/ROP.md",
+    "Learning_Tasks/Rust.md",
     "Interviews_Prep/Book -Secure coding in c & c++.md",
     "All Tasks.md",
+    "TinyML_Project/TinyML Kanban.md",
+    "TinyML_Project/Implementation notes - Part 1 basic.md",
     "HW_Peripheral_Fuzzing_Project/HW-PeripheralFuzz Kanban.md",
     "TA_Tasks/TA Kanban.md",
     "LLM_Datasheet-Project/LLM-datasheet Kanban.md",
@@ -222,10 +222,6 @@
     "TA/TA Kanban.md",
     "TA/EEC7-fall24",
     "TA",
-    "Interviews_Prep/Other notes.md",
-    "Interviews_Prep/CTFs.md",
-    "LLM_Datasheet-Project/To-do.md",
-    "SEFF_Project/To-do.md",
     "KanbanNotes",
     "Interviews_Prep",
     "GoogleWatchFuzz",
