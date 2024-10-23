@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews_Prep/Book -Secure coding in c & c++.md",
+                "file": "All Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Book -Secure coding in c & c++"
+              "title": "All Tasks"
             }
           },
           {
@@ -190,14 +190,17 @@
   },
   "active": "faa573edb77fbeba",
   "lastOpenFiles": [
+    "Interviews_Prep/Interview Kanban.md",
+    "Interviews_Prep/Google - Software Engineer, PhD, Early Career, Campus, Embedded Systems and Firmware.md",
+    "Interviews_Prep/Leet code plan - Meta.md",
+    "All Tasks.md",
+    "TinyML_Project/TinyML Kanban.md",
+    "Interviews_Prep/Book -Secure coding in c & c++.md",
     "SEFF_Project/Implementation notes_current.md",
     "Learning_Tasks/Exploit dev.md",
     "Learning_Tasks/Untitled.md",
     "Learning_Tasks/ROP.md",
     "Learning_Tasks/Rust.md",
-    "Interviews_Prep/Book -Secure coding in c & c++.md",
-    "All Tasks.md",
-    "TinyML_Project/TinyML Kanban.md",
     "TinyML_Project/Implementation notes - Part 1 basic.md",
     "HW_Peripheral_Fuzzing_Project/HW-PeripheralFuzz Kanban.md",
     "TA_Tasks/TA Kanban.md",
@@ -208,8 +211,6 @@
     "LLM_Datasheet-Project/notes.md",
     "SEFF_Project/Implementation-notes _ Old.md",
     "Interviews_Prep/Book - Elements of programming interview.md",
-    "Interviews_Prep/Interview Kanban.md",
-    "Interviews_Prep/Leet code plan - Meta.md",
     "Interviews_Prep/Leet code Notes.md",
     "SEFF_Project/Questions.md",
     "SEFF-w-LLM_Project",
@@ -218,7 +219,6 @@
     "Learning_Tasks",
     "TA_Tasks",
     "TA/EEC7-fall24/Notes.md",
-    "TA/TA Kanban.md",
     "TA/EEC7-fall24",
     "TA",
     "KanbanNotes",
