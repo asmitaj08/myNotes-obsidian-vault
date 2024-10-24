@@ -10,3 +10,4 @@
 6. Problem with emulator/simulator vs actual code ?
 7. how to see the impaxct on those peripherals
 8. in libafl, what feedback, observer, mutator, executor, etc will be suitable to use?
+9. page 84-86 : gest(), fgets(), getchar(), gets_s()

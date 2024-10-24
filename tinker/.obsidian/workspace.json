@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEFF_Project/Implementation notes_current.md",
+                "file": "Interviews_Prep/Leet code plan - Meta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Implementation notes_current"
+              "title": "Leet code plan - Meta"
             }
           },
           {
@@ -190,6 +190,7 @@
   },
   "active": "faa573edb77fbeba",
   "lastOpenFiles": [
+    "SEFF_Project/Implementation notes_current.md",
     "SEFF_Project/Implementation-notes _ Old.md",
     "Interviews_Prep/Book -Secure coding in c & c++.md",
     "All Tasks.md",
@@ -197,7 +198,6 @@
     "Interviews_Prep/Google - Software Engineer, PhD, Early Career, Campus, Embedded Systems and Firmware.md",
     "Interviews_Prep/Leet code plan - Meta.md",
     "TinyML_Project/TinyML Kanban.md",
-    "SEFF_Project/Implementation notes_current.md",
     "Learning_Tasks/Exploit dev.md",
     "Learning_Tasks/Untitled.md",
     "Learning_Tasks/ROP.md",
