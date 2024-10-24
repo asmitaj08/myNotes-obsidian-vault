@@ -9,3 +9,4 @@
 5. LibAFL slows down if it doesn't find any new path, is taht correct?
 6. Problem with emulator/simulator vs actual code ?
 7. how to see the impaxct on those peripherals
+8. in libafl, what feedback, observer, mutator, executor, etc will be suitable to use?
