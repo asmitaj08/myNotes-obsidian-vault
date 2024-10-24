@@ -13,6 +13,7 @@
 - In some cases, sting truncation may lead to software vulnerabilities.
 - Most functions defined in standard string handling library are susceptible to errors including strcpy(), strncpy(), strcat(), strncat(), strtok()
 - Page 74-75 : non rentrant functions can be troublesome (c11 annex k functions)
+- page 81-83 , c++ basic_string, c_str(), 
 
 
 
@@ -24,3 +25,4 @@
 2. Page 65 buffer overflow exploit example (page 65-68)
 3. ROP (returned oriented programming ) (page 71)
 4. Turing complete set of gadgets (page 71)
+5. iterator loc++ vs ++loc  (invalid iterator)// page 81-82 (code sample at the end of the page)

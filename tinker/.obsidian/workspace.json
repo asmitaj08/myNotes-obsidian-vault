@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All Tasks.md",
+                "file": "SEFF_Project/Implementation notes_current.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "All Tasks"
+              "title": "Implementation notes_current"
             }
           },
           {
@@ -190,12 +190,13 @@
   },
   "active": "faa573edb77fbeba",
   "lastOpenFiles": [
+    "SEFF_Project/Implementation-notes _ Old.md",
+    "Interviews_Prep/Book -Secure coding in c & c++.md",
+    "All Tasks.md",
     "Interviews_Prep/Interview Kanban.md",
     "Interviews_Prep/Google - Software Engineer, PhD, Early Career, Campus, Embedded Systems and Firmware.md",
     "Interviews_Prep/Leet code plan - Meta.md",
-    "All Tasks.md",
     "TinyML_Project/TinyML Kanban.md",
-    "Interviews_Prep/Book -Secure coding in c & c++.md",
     "SEFF_Project/Implementation notes_current.md",
     "Learning_Tasks/Exploit dev.md",
     "Learning_Tasks/Untitled.md",
@@ -209,7 +210,6 @@
     "Learning_Tasks/Links.md",
     "Learning_Tasks/Learning Kanban.md",
     "LLM_Datasheet-Project/notes.md",
-    "SEFF_Project/Implementation-notes _ Old.md",
     "Interviews_Prep/Book - Elements of programming interview.md",
     "Interviews_Prep/Leet code Notes.md",
     "SEFF_Project/Questions.md",
