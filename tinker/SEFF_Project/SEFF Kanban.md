@@ -22,8 +22,9 @@ kanban-plugin: board
 
 ## #in-progress
 
+- [ ] collect the bugs found in previous research paper, firmware they used, and can that be replicated? 🔺
 - [ ] Test the new custom binary for BMP180 with nrf52840
-- [ ] identify how to deal with delay() in firmware 🔺
+- [ ] identify how to deal with delay() in firmware ⏫
 
 
 ## #completed
